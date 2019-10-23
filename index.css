@@ -35,6 +35,7 @@ html, body {
   max-width: 600px;
   padding-top: 100px;
   width: 100%;
+  margin-bottom: 0px !important
 }
 
 .offline .runner-container {
