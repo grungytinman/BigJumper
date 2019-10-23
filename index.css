@@ -183,6 +183,6 @@ iframe#hs-form-iframe-0 {
   }
 }
 .text-blur-out {
-	-webkit-animation: text-blur-out 5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
-	        animation: text-blur-out 5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+	-webkit-animation: text-blur-out 7s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+	        animation: text-blur-out 7s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
 }
