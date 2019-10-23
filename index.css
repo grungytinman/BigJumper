@@ -111,7 +111,7 @@ html, body {
 }
 @media (min-height: 240px) and (orientation: landscape)
 .offline .interstitial-wrapper {
-  margin-bottom: 0 ;
+  margin-bottom: 0px !important ;
 }
 
 @media (min-height: 240px) and (orientation: landscape) {
