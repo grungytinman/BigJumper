@@ -159,7 +159,7 @@ iframe#hs-form-iframe-0 {
     opacity: 0%;
   }
 }
-.fourth-text {
+.fade {
   opacity: 0;
   animation-name: fadeOut;
   animation-delay: 8.5s;
