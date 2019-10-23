@@ -160,6 +160,7 @@ iframe#hs-form-iframe-0 {
   }
 }
 .fade {
+  color:black;
   opacity: 0;
   animation-name: fadeOut;
   animation-delay: 8.5s;
