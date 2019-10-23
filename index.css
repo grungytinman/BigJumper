@@ -137,3 +137,7 @@ html, body {
 iframe#hs-form-iframe-0 {
     width: 100% !important;
 }
+.actions {     margin-top: 0px; 
+    margin-bottom: 0px; 
+    padding:  0px;
+}
