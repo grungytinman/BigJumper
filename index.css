@@ -147,6 +147,6 @@ iframe#hs-form-iframe-0 {
     padding:  0px;
 }
 .fade {
-  transition-duration: 10s;
-  color:white;
+  transition-duration: 5s;
+  color:lightgray;
 }
