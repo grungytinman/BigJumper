@@ -146,3 +146,22 @@ iframe#hs-form-iframe-0 {
     margin-bottom: 0px; 
     padding:  0px;
 }
+@keyframes fadeOut {
+  0% {
+    opacity: 0;
+  }
+
+  45% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0%;
+  }
+}
+.fourth-text {
+  opacity: 0;
+  animation-name: fadeOut;
+  animation-delay: 8.5s;
+  animation-duration: 9s;
+}
