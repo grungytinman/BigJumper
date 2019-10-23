@@ -134,3 +134,6 @@ html, body {
     padding: 0 8px;
   }
 }
+iframe#hs-form-iframe-0 {
+    width: 100% !important;
+}
