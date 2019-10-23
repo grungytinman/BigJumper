@@ -146,23 +146,3 @@ iframe#hs-form-iframe-0 {
     margin-bottom: 0px; 
     padding:  0px;
 }
-@keyframes fadeOut {
-  100% {
-    opacity: 1;
-  }
-
-  45% {
-    opacity: 1;
-  }
-
-  0% {
-    opacity: 0%;
-  }
-}
-.fade {
-  color:black;
-  opacity: 0;
-  animation-name: fadeOut;
-  animation-delay: 8.5s;
-  animation-duration: 9s;
-}
