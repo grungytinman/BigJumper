@@ -147,15 +147,15 @@ iframe#hs-form-iframe-0 {
     padding:  0px;
 }
 @keyframes fadeOut {
-  0% {
-    opacity: 0;
+  100% {
+    opacity: 1;
   }
 
   45% {
     opacity: 1;
   }
 
-  100% {
+  0% {
     opacity: 0%;
   }
 }
